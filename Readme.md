@@ -7,3 +7,5 @@ Adicionar também uma label para cada campo e referenciar essa label ao ID que s
 Enviar esse arquivo para o Github em uma branch chamada exercício_html;
 <br />
 Enviar o link para nossos tutores.
+<br />
+<img scr="./exercicio.png" />
