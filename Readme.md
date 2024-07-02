@@ -9,4 +9,5 @@ Enviar esse arquivo para o Github em uma branch chamada exercício_html;
 Enviar o link para nossos tutores.
 <br />
 <br />
-![exemplo](https://github.com/msdohko/exercicio_html/assets/54387199/faef98db-e401-49a9-b70a-6c407d762d8c)
+
+![exemplo](https://github.com/msdohko/exercicio_html/assets/54387199/f54218f4-5e6a-4ed3-a750-bad7f7678c46)
