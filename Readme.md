@@ -8,4 +8,5 @@ Enviar esse arquivo para o Github em uma branch chamada exercício_html;
 <br />
 Enviar o link para nossos tutores.
 <br />
-<img scr="./exercicio.png" />
+
+![exemplo](https://github.com/msdohko/exercicio_html/assets/54387199/faef98db-e401-49a9-b70a-6c407d762d8c)
